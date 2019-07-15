@@ -41,3 +41,7 @@ Create a function called `time_in_words`. It should return a time string as desc
 **Sample 3:**  
 `> time_in_words(7, 15)`  
 `> quarter past seven`
+
+** Testing **
+`> from testtimetowords import TimeTest`  
+`> TimeTest().test()`
